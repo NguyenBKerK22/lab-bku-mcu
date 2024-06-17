@@ -1,1 +1,1 @@
-# lab-bku-mcu
+This is my reposity of lab exercises.
